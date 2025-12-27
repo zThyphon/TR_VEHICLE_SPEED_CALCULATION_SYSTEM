@@ -1,0 +1,6 @@
+ultralytics
+paddlepaddle
+paddleocr
+opencv-python
+numpy
+Pillow
